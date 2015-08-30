@@ -1,0 +1,3 @@
+- Clone/Download repo
+- Run init command from command prompt.
+- Open http://localhost:9999

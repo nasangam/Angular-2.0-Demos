@@ -1,0 +1,1 @@
+npm install  && start cmd.exe /c "node server" && tsd install angular2 es6-promise rx rx-lite &&  tsc --watch -m commonjs -t es5 --emitDecoratorMetadata app.ts

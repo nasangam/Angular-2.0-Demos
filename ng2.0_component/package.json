@@ -1,0 +1,17 @@
+{
+  "name": "ng2",
+  "version": "1.0.0",
+  "description": "Sample Demo app",
+  "main": "index.js",
+  "dependencies": {
+    "node-static": "^0.7.7",
+    "tsd": "^0.6.0",
+    "typescript": "^1.5.0-beta"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nagaraju Sangam",
+  "license": "MIT"
+}
